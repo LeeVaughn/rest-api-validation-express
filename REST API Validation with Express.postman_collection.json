@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "c128f964-b60c-4ae6-8360-6c7f96035210",
+		"name": "REST API Validation with Express",
+		"description": "A collection of tests to use with Treehouse's REST API with Express course.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Initial Test",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
